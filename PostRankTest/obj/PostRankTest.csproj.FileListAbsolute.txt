@@ -1,0 +1,10 @@
+D:\junk\PostRank\build\bin\Debug\PostRankTest.exe
+D:\junk\PostRank\build\bin\Debug\PostRankTest.pdb
+D:\junk\PostRank\PostRankTest\obj\Debug\ResolveAssemblyReference.cache
+D:\junk\PostRank\PostRankTest\obj\Debug\PostRankTest.exe
+D:\junk\PostRank\PostRankTest\obj\Debug\PostRankTest.pdb
+D:\junk\PostRank\build\bin\Release\PostRankTest.exe
+D:\junk\PostRank\build\bin\Release\PostRankTest.pdb
+D:\junk\PostRank\PostRankTest\obj\Release\ResolveAssemblyReference.cache
+D:\junk\PostRank\PostRankTest\obj\Release\PostRankTest.exe
+D:\junk\PostRank\PostRankTest\obj\Release\PostRankTest.pdb

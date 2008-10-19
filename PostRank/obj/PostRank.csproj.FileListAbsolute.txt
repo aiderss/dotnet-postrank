@@ -1,0 +1,10 @@
+D:\junk\PostRank\build\bin\Debug\PostRank.dll
+D:\junk\PostRank\build\bin\Debug\PostRank.pdb
+D:\junk\PostRank\PostRank\obj\Debug\ResolveAssemblyReference.cache
+D:\junk\PostRank\PostRank\obj\Debug\PostRank.dll
+D:\junk\PostRank\PostRank\obj\Debug\PostRank.pdb
+D:\junk\PostRank\build\bin\Release\PostRank.dll
+D:\junk\PostRank\build\bin\Release\PostRank.pdb
+D:\junk\PostRank\PostRank\obj\Release\ResolveAssemblyReference.cache
+D:\junk\PostRank\PostRank\obj\Release\PostRank.dll
+D:\junk\PostRank\PostRank\obj\Release\PostRank.pdb
